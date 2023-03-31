@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am a software engineer with more than 8 years of experience in the workplace 
 
 <!--
 **alexis-cortes/alexis-cortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
